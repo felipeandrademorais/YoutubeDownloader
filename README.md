@@ -16,6 +16,10 @@ node index.js
 
 and then run index.html.
 
+## Example of Use
+
+![gif-exemplo-youtubedownload](https://user-images.githubusercontent.com/7452278/64810588-0518a500-d572-11e9-9feb-9841ce4d7c13.gif)
+
 ## Dependencies References
 
 [cors](https://www.npmjs.com/package/cors)
