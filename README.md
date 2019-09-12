@@ -14,7 +14,7 @@ yarn
 node index.js
 ```
 
-and before execute index.html.
+and then run index.html.
 
 ## Dependencies References
 
